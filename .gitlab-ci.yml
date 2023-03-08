@@ -1,2 +1,2 @@
 include:
-  - remote: 'https://gitlab.mediacube.at/fhs46911/algodat-2023-tests/-/blob/main/.gitlab-ci.yml'
+  - remote: 'https://gitlab.mediacube.at/fhs46911/algodat-2023-tests/-/raw/main/.gitlab-ci.yml'
