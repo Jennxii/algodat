@@ -1,0 +1,15 @@
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit01\bin\Debug\net6.0\einheit01.exe
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit01\bin\Debug\net6.0\einheit01.deps.json
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit01\bin\Debug\net6.0\einheit01.runtimeconfig.json
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit01\bin\Debug\net6.0\einheit01.dll
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit01\bin\Debug\net6.0\einheit01.pdb
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit01\obj\Debug\net6.0\einheit01.csproj.AssemblyReference.cache
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit01\obj\Debug\net6.0\einheit01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit01\obj\Debug\net6.0\einheit01.AssemblyInfoInputs.cache
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit01\obj\Debug\net6.0\einheit01.AssemblyInfo.cs
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit01\obj\Debug\net6.0\einheit01.csproj.CoreCompileInputs.cache
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit01\obj\Debug\net6.0\einheit01.dll
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit01\obj\Debug\net6.0\refint\einheit01.dll
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit01\obj\Debug\net6.0\einheit01.pdb
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit01\obj\Debug\net6.0\einheit01.genruntimeconfig.cache
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit01\obj\Debug\net6.0\ref\einheit01.dll

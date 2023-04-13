@@ -1,0 +1,5 @@
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit02\obj\Debug\net6.0\einheit02.csproj.AssemblyReference.cache
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit02\obj\Debug\net6.0\einheit02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit02\obj\Debug\net6.0\einheit02.AssemblyInfoInputs.cache
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit02\obj\Debug\net6.0\einheit02.AssemblyInfo.cs
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\einheit02\obj\Debug\net6.0\einheit02.csproj.CoreCompileInputs.cache

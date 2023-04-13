@@ -1,0 +1,15 @@
+C:\Users\Alija Suljic\Dropbox\Tutorium_AlgoDat\Einheit01\obj\Debug\net7.0\Einheit01.csproj.AssemblyReference.cache
+C:\Users\Alija Suljic\Dropbox\Tutorium_AlgoDat\Einheit01\obj\Debug\net7.0\Einheit01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alija Suljic\Dropbox\Tutorium_AlgoDat\Einheit01\obj\Debug\net7.0\Einheit01.AssemblyInfoInputs.cache
+C:\Users\Alija Suljic\Dropbox\Tutorium_AlgoDat\Einheit01\obj\Debug\net7.0\Einheit01.AssemblyInfo.cs
+C:\Users\Alija Suljic\Dropbox\Tutorium_AlgoDat\Einheit01\obj\Debug\net7.0\Einheit01.csproj.CoreCompileInputs.cache
+C:\Users\Alija Suljic\Dropbox\Tutorium_AlgoDat\Einheit01\bin\Debug\net7.0\Einheit01.exe
+C:\Users\Alija Suljic\Dropbox\Tutorium_AlgoDat\Einheit01\bin\Debug\net7.0\Einheit01.deps.json
+C:\Users\Alija Suljic\Dropbox\Tutorium_AlgoDat\Einheit01\bin\Debug\net7.0\Einheit01.runtimeconfig.json
+C:\Users\Alija Suljic\Dropbox\Tutorium_AlgoDat\Einheit01\bin\Debug\net7.0\Einheit01.dll
+C:\Users\Alija Suljic\Dropbox\Tutorium_AlgoDat\Einheit01\bin\Debug\net7.0\Einheit01.pdb
+C:\Users\Alija Suljic\Dropbox\Tutorium_AlgoDat\Einheit01\obj\Debug\net7.0\Einheit01.dll
+C:\Users\Alija Suljic\Dropbox\Tutorium_AlgoDat\Einheit01\obj\Debug\net7.0\refint\Einheit01.dll
+C:\Users\Alija Suljic\Dropbox\Tutorium_AlgoDat\Einheit01\obj\Debug\net7.0\Einheit01.pdb
+C:\Users\Alija Suljic\Dropbox\Tutorium_AlgoDat\Einheit01\obj\Debug\net7.0\Einheit01.genruntimeconfig.cache
+C:\Users\Alija Suljic\Dropbox\Tutorium_AlgoDat\Einheit01\obj\Debug\net7.0\ref\Einheit01.dll
