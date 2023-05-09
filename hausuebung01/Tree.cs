@@ -59,9 +59,6 @@ namespace AlgoDat
                 return true;
             }
 
-           
-
-
             if ((node.Left != null && node.Key.CompareTo(node.Left.Key) > 0) ||
                 (node.Right != null && node.Key.CompareTo(node.Right.Key) > 0))
             {
