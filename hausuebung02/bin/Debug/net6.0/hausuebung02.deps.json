@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hausuebung02/1.0.0": {
+        "runtime": {
+          "hausuebung02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hausuebung02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\hausuebung02\obj\Debug\net6.0\hausuebung02.csproj.AssemblyReference.cache
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\hausuebung02\obj\Debug\net6.0\hausuebung02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\hausuebung02\obj\Debug\net6.0\hausuebung02.AssemblyInfoInputs.cache
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\hausuebung02\obj\Debug\net6.0\hausuebung02.AssemblyInfo.cs
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\hausuebung02\obj\Debug\net6.0\hausuebung02.csproj.CoreCompileInputs.cache
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\hausuebung02\bin\Debug\net6.0\hausuebung02.exe
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\hausuebung02\bin\Debug\net6.0\hausuebung02.deps.json
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\hausuebung02\bin\Debug\net6.0\hausuebung02.runtimeconfig.json
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\hausuebung02\bin\Debug\net6.0\hausuebung02.dll
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\hausuebung02\bin\Debug\net6.0\hausuebung02.pdb
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\hausuebung02\obj\Debug\net6.0\hausuebung02.dll
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\hausuebung02\obj\Debug\net6.0\refint\hausuebung02.dll
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\hausuebung02\obj\Debug\net6.0\hausuebung02.pdb
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\hausuebung02\obj\Debug\net6.0\hausuebung02.genruntimeconfig.cache
+C:\Users\jenny\OneDrive\Documents\Uni\algodat\hausuebung02\obj\Debug\net6.0\ref\hausuebung02.dll
